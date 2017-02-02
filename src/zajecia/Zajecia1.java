@@ -3,7 +3,7 @@ package zajecia;
 /**
  * Created by RENT on 2017-01-31.
  */
-public class Application {
+public class Zajecia1 {
     public static void main(String[] args) {
         //checkAge();
         //graterThen0();
